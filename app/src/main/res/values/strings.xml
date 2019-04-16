@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="key_label">Key</string>
+    <string name="value_label">Value</string>
+    <string name="write_db_button">Write to Cloud</string>
+    <string name="read_db_button">Read from Cloud</string>
+    <string name="hint_key">Type key here</string>
+    <string name="hint_value">Type value here</string>
+</resources>
